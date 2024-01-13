@@ -7,7 +7,7 @@ This is a simple and user-friendly text editor built using Python's built-in Tki
 To use Jonah's Text Editor, simply install the latest exe from the Releases tab.
 
 ## Building from Source
-Alternatively, you can build it from source.\
+Alternatively, you can build it from source.
 1. Clone the Repository:\
 `git clone https://github.com/jhonsberger/Jonahs-Text-Editor.git`
 
@@ -23,7 +23,7 @@ Alternatively, you can build it from source.\
 ## Usage
 Use the "File" menu or corresponding keyboard shortcuts to perform actions.\
 Edit and manipulate text in the main text area.\
-You can also choose from a variety of themes in the Themes menu
+You can also choose from a variety of themes in the Themes menu.
 
 ## Keyboard Shortcuts
 Ctrl + N: Create a new file.\
